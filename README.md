@@ -75,7 +75,6 @@ O projeto foi estruturado em três camadas principais:
 ---
 
 ## 📁 Estrutura do Projeto
-<img width="1170" height="752" alt="image" src="https://github.com/user-attachments/assets/8dc79427-1985-4dd8-bec0-c1ae5f395f55" />
 
 - data/
 - notebooks/
